@@ -40,6 +40,10 @@ To view and interact with the YouTube Clone project, follow these steps:
 
 2. You will now be able to explore the YouTube clone user interface, watch sample videos, and view and post comments.
 
+## Live Demo
+
+You can access the live demo of the YouTube Clone project [here](https://swathipinky2.github.io/Youtube-clone/).
+
 ## Contributing
 
 Contributions to this project are highly encouraged. If you wish to contribute, please follow these steps:
@@ -47,5 +51,3 @@ Contributions to this project are highly encouraged. If you wish to contribute, 
 1. Fork the repository.
 2. Make your desired changes or improvements.
 3. Submit a pull request with a clear description of the changes you've made.
-
-Please ensure that your code adheres to best practices, is well-documented, and doesn't disrupt existing functionality.
